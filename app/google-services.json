@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "92938804485",
+    "firebase_url": "https://taekook-aa18a.firebaseio.com",
+    "project_id": "taekook-aa18a",
+    "storage_bucket": "taekook-aa18a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92938804485:android:ccba7fbddc9d914d",
+        "android_client_info": {
+          "package_name": "com.apkglobal.taekook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92938804485-o3t6s37hrgvdka3tr569dfo8sg483spd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apkglobal.taekook",
+            "certificate_hash": "fbddd69b6404dc784424ce7144939b44d9178044"
+          }
+        },
+        {
+          "client_id": "92938804485-s635j27bp2kq25loah0k91bop36cq18l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUTEIh76hfqE0NseL1NuA-l34JYGapDdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92938804485-s635j27bp2kq25loah0k91bop36cq18l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
